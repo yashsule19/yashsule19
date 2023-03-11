@@ -13,10 +13,11 @@
 ![Yash's GitHub stats](https://github-readme-stats-yashsule19.vercel.app/api?username=yashsule19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 **Connect with me:**
+LinkedIn
 
 **Languages Known:**
-
+C, C++, C#, R, Python
 
 **Tools Known:**
-
+MATLAB
 
