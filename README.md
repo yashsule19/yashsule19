@@ -5,8 +5,6 @@
 <h1 align = "center">Hi there 👋, I'm Yash Sule</h1>
 <h2 align = "center">Mathematician, Programmer, Data Analyst and Data Scientist</h2>
 
-<img src="https://komarev.com/ghpvc/?username=yashsule19&style=plastic&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 ## :man: About Me: 
 Being a Mathematician by Degree, having inclination for Programming and a curiosity to generate insights from Data drives me to Learn, Pursue, Explore new softwares as well as machine learning techniques that are emerging in the field of Data Science. Currently, pursuing M.Sc. Data Science course at the Nottingham Trent University.
 
