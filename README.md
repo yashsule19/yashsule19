@@ -16,7 +16,7 @@ Being a Mathematician by Degree, having inclination for Programming and a curios
 
 **Connect with me:**
 <div id="badges">
-  <a href="www.linkedin.com/in/yashusule">
+  <a href="https://www.linkedin.com/in/yashusule/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
