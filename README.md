@@ -32,7 +32,3 @@ Being a Mathematician by Degree, having inclination for Programming and a curios
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/768px-New_Power_BI_Logo.svg.png" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;
   <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="Excel" alt="Excel" width="40" height="40"/>
 </div>
-
----
-
-<img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats-yashsule19.vercel.app/api?username=yashsule19&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
